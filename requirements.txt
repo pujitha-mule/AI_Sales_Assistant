@@ -1,0 +1,7 @@
+flask
+pandas
+sentence-transformers
+google-generativeai
+python-dotenv
+pgvector
+psycopg2-binary
