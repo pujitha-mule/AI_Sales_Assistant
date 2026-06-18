@@ -2,7 +2,6 @@
 
 An AI-powered sales assistant that combines Retrieval-Augmented Generation (RAG), AI Agents, semantic search, and intelligent tool usage to automate product discovery, customer support, and sales interactions.
 
-
 ## Overview
 
 AI Sales Assistant helps users discover products, resolve customer queries, and receive intelligent recommendations through natural language conversations.
